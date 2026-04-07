@@ -1,15 +1,15 @@
 {
-  "version": "0.3.1",
-  "notes": "Initial release with constitutional governance, council deliberation, and mixed-provider routing.",
-  "pub_date": "2026-04-06T00:00:00Z",
+  "version": "0.3.2",
+  "notes": "Auto-updater with Check for Updates menu item, periodic background checks, and in-app download + install.",
+  "pub_date": "2026-04-07T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "",
-      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.1/PrismAI-0.3.1-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmlmYmNmbVhTR0o0ZXR5dmlwa2lYb2loZVZoZkNaRE5Hd2RBS3JCS2FwbDBoQ3FUYVpTTStMK0ZnRG4ybEFPb25tL1BPaytpZ1ZJYTdoa3BhdVZQY1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTM2MzY0CWZpbGU6UHJpc21BSS0wLjMuMi1tYWNvcy1hcm02NC5hcHAudGFyLmd6Cktvd3c3eVdaY3NPMUFUMFV6S1A0Qnp3S2xrUUd6WFA0RUxUalZxeWZoN3RkSEpFWGk2NDBoY2RNZXlXSFJMUC85ZnVkdGZValZBSFNINkl3dFBoMEJnPT0K",
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.2/PrismAI-0.3.2-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "",
-      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.1/PrismAI-0.3.1-intel-macos-x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmpETkR3UWVvd3VaSDJTb25iallxWXp4UmJlNzhzcDdyZ1FoYWtBSmxwY2pCYStaZmNySFNEZEtwbmk0Y0pqWmEwMmowY295cGlVNVR4WEpvdktyaXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTM2NDU0CWZpbGU6UHJpc21BSS0wLjMuMi1tYWNvcy14ODZfNjQuYXBwLnRhci5negozNmxwTm12V0c0L3NNL1NnYzZvcTh6QUNMSEljYXd0TVJqMUNGZTZyM2owRkMzWlp5VTdjWDNBTnpMRXU3dFZLaWpvb1pYOTRzM1lpVFZUa3dMRmVEdz09Cg==",
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.2/PrismAI-0.3.2-macos-x86_64.app.tar.gz"
     }
   }
 }
