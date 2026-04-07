@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.3.1-blue" alt="Version 0.3.1">
+  <img src="https://img.shields.io/badge/version-0.3.2-blue" alt="Version 0.3.2">
   <img src="https://img.shields.io/badge/platform-macOS-lightgrey" alt="macOS">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
 </p>
@@ -21,8 +21,8 @@
 
 | Platform | Architecture | Download | Status |
 |---|---|---|---|
-| macOS | Apple Silicon (M1/M2/M3/M4) | [PrismAI-0.3.1-macos-arm64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.1/PrismAI-0.3.1-macos-arm64.dmg) | Signed |
-| macOS | Intel | [PrismAI-0.3.1-macos-x86_64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.1/PrismAI-0.3.1-macos-x86_64.dmg) | Unsigned |
+| macOS | Apple Silicon (M1/M2/M3/M4) | [PrismAI-0.3.2-macos-arm64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.2/PrismAI-0.3.2-macos-arm64.dmg) | Signed + Notarized |
+| macOS | Intel | [PrismAI-0.3.2-macos-x86_64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.2/PrismAI-0.3.2-macos-x86_64.dmg) | Unsigned |
 
 > **Intel Mac users:** Because the Intel build is currently unsigned, macOS will block it. To open: right-click the app → **Open** → click **Open** on the warning. You only need to do this once.
 
