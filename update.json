@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
-  "notes": "Test update with auto-install support.",
-  "pub_date": "2026-04-07T00:00:00Z",
+  "version": "0.3.1",
+  "notes": "Initial release with constitutional governance, council deliberation, and mixed-provider routing.",
+  "pub_date": "2026-04-06T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
