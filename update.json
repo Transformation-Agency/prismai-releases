@@ -8,7 +8,7 @@
       "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.3/PrismAI-0.3.3-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmdGaGpQQktVUGw2NU1RUGpDRzd0bmNNZ0xlSzBiR3ozcnE1b3B3UlAyZ0o3Z1ZCaC9rQ3FzaHJwTnZvWDJybVpQWnJ0SVZNbFMxWWVZOE94dHowSVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTgwODA5CWZpbGU6UHJpc21BSS0wLjMuMy1tYWNvcy14ODZfNjQuYXBwLnRhci5negpuZlQ0eUJzVnRvaWVGWjRTTVVmNzJCUndrZmxISXNvSGIxTU5PZ2VXbWZkL3NJQ1ZQTlp5VXBISlovMzV5alNYanQ5N0RUdlNjbDZkbzJPL1M4ODhDZz09Cg==",
       "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.3/PrismAI-0.3.3-macos-x86_64.app.tar.gz"
     }
   }
