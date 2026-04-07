@@ -1,14 +1,15 @@
 {
   "version": "0.3.2",
-  "notes": "Initial release with constitutional governance, council deliberation, and mixed-provider routing.",
-  "pub_date": "2026-04-06T00:00:00Z",
-  "download_page": "https://github.com/Transformation-Agency/prismai-releases/releases/tag/v0.3.1",
+  "notes": "Test update with auto-install support.",
+  "pub_date": "2026-04-07T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.1/PrismAI-0.3.1-macos-arm64.dmg"
+      "signature": "",
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.1/PrismAI-0.3.1-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.1/PrismAI-0.3.1-intel-macos-x86_64.dmg"
+      "signature": "",
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.1/PrismAI-0.3.1-intel-macos-x86_64.app.tar.gz"
     }
   }
 }
