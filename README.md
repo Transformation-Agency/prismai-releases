@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.3.3-blue" alt="Version 0.3.3">
+  <img src="https://img.shields.io/badge/version-0.3.4-blue" alt="Version 0.3.4">
   <img src="https://img.shields.io/badge/platform-macOS-lightgrey" alt="macOS">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
 </p>
@@ -21,8 +21,8 @@
 
 | Platform | Architecture | Download | Status |
 |---|---|---|---|
-| macOS | Apple Silicon (M1/M2/M3/M4) | [PrismAI-0.3.3-macos-arm64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.3/PrismAI-0.3.3-macos-arm64.dmg) | Signed + Notarized |
-| macOS | Intel | [PrismAI-0.3.3-macos-x86_64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.3/PrismAI-0.3.3-macos-x86_64.dmg) | Signed + Notarized |
+| macOS | Apple Silicon (M1/M2/M3/M4) | [PrismAI-0.3.4-macos-arm64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-macos-arm64.dmg) | Signed + Notarized |
+| macOS | Intel | [PrismAI-0.3.4-macos-x86_64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-macos-x86_64.dmg) | Signed + Notarized |
 
 ## What is PrismAI?
 
