@@ -1,15 +1,15 @@
 {
-  "version": "0.3.3",
-  "notes": "Plugin system, deliberation rewrite, lens cleanup, and more.",
-  "pub_date": "2026-04-07T00:00:00Z",
+  "version": "0.3.4",
+  "notes": "File save dialog, deliberation fixes, embed button for chat messages.",
+  "pub_date": "2026-04-08T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWnBTWGc4ckg4TTY5N1ozeWtNSVRiQWZWdHQ4SHpET0J5QjE2clFyQTVwK1oybEdlRk55ZUlNRDZGdkZHLzdWU3A2ZUdyQVRGR0l2ZEUyQlRtZFM5eWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTg1Nzk4CWZpbGU6UHJpc21BSS0wLjMuMy1tYWNvcy1hcm02NC5hcHAudGFyLmd6Cm5HNzVQVGtWb3VhSmNPNHliUWRPcmkxblpPNGI0NEhOYmVUc0hhL0N5Y05aczNrVWppMnJraUhMMkIxaUxTa1o1Y2lkRzRMdUcrQjN5Zk5GaC93MkRRPT0K",
-      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.3/PrismAI-0.3.3-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmhwZDFHbEQ5V2UvSy93Y3pHRjE2cnlSQjhoMEtaTDg2NFZWYmxGRFRSN2hiZnFZL3VVQ01hZWxKbm9IdWs3QXMwUTB5TXQxcnZuS2xwUGxQWUk1bVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjI4MDY4CWZpbGU6UHJpc21BSS0wLjMuNC1tYWNvcy1hcm02NC5hcHAudGFyLmd6Cmh0a09vM0IyRzRtOGNoMnRMOFB3dFU3ZlJXeVQrWTBZRUVueFZLNW52ako1Z3pKdEtIQmE0M1YzSWhIa0grbEVkTVcvTHZEaWdXZFk3eW80U3Y5TkNBPT0K",
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmgyZzFtSnRyN0kxYmJqT05oQXkxc29tdzVDNldjQ2U3SWtkM1dZUU9FajU3WFpGblhQVjhKU2xtQ3R6MXI0V2tOdzhscnJ3ZG1Hdk5KY1ZCL1ZQV0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTg1ODQxCWZpbGU6UHJpc21BSS0wLjMuMy1tYWNvcy14ODZfNjQuYXBwLnRhci5nego4S0o5TUlGd25RcXlieXloOTR0VStoVVVzYUJNSzJwbUJWUC9nRUg5ZWhEd1VIVXpVblV3bWhDMzBmRWNyS0I3R3hBbzdCOHVNRlgzaFdyenMwNWpEdz09Cg==",
-      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.3/PrismAI-0.3.3-macos-x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmp6aCs2WXBDU2wwU0ExSzRtays0QkcycWpqc1d3Sm9NNjVoZ2Q1bXNuaXVXU3RzTTJqb2prOE9qdVdneUw1aHlFeHdjQnYxYjdoeTBreURObWRwQ0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjI4MDk3CWZpbGU6UHJpc21BSS0wLjMuNC1tYWNvcy14ODZfNjQuYXBwLnRhci5negpTQysxQVIxTVhZdHdDUVVET0hWbkU1dkRsTTFpOG5mbFh2Q2dxTlRNcmUwTlptam5NMU4zMlppTzV5THpGZmN1UTVyT0pzN2lJVStZYk9obFVSV0tEUT09Cg==",
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-macos-x86_64.app.tar.gz"
     }
   }
 }
