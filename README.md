@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-0.3.4-blue" alt="Version 0.3.4">
-  <img src="https://img.shields.io/badge/platform-macOS-lightgrey" alt="macOS">
+  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey" alt="macOS | Windows">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
 </p>
 
@@ -22,7 +22,10 @@
 | Platform | Architecture | Download | Status |
 |---|---|---|---|
 | macOS | Apple Silicon (M1/M2/M3/M4) | [PrismAI-0.3.4-macos-arm64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-macos-arm64.dmg) | Signed + Notarized |
-| macOS | Intel | [PrismAI-0.3.4-macos-x86_64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-macos-x86_64.dmg) | Signed + Notarized |
+| macOS | Intel | [PrismAI-0.3.4-intel-macos-x86_64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-intel-macos-x86_64.dmg) | Signed + Notarized |
+| Windows | x64 | [PrismAI_0.3.4_x64-setup.exe](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI_0.3.4_x64-setup.exe) | Unsigned |
+
+> **Windows users:** Windows may show a SmartScreen warning on first launch. Click "More info" → "Run anyway" to proceed.
 
 ## What is PrismAI?
 
