@@ -1,11 +1,11 @@
 {
-  "version": "0.3.5",
-  "notes": "Guided Setup Overhaul, agent deliberation fixes, and bug fixes.",
-  "pub_date": "2026-04-10T00:00:00Z",
+  "version": "0.3.4",
+  "notes": "File save dialog, deliberation fixes, embed button for chat messages. First Windows build.",
+  "pub_date": "2026-04-09T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWnJzbkJOQ0h6bEo1TlZJTnd4NWZKbFlrWUNaYVJpMkVHYmlJQXM0UkVacHZ2cWo5NThjeGdjOVlRRGxPZmE4cDJKVmxxempDYmJkSk5RY2hmWDZVUUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODA3MDgwCWZpbGU6UHJpc21BSS0wLjMuNS1tYWNvcy1hcm02NC5hcHAudGFyLmd6Cllib25QU1I4RGpJekxQZXZzcTY1ZGcxTTY3NXQvMkdjbDNaSlRiMWdWZlJ2QVRYWDJLMGxnOGZiMElNdlpuRnJFRGF6MEpEWVZ1ekpDa2NFWkppREN3PT0K",
-      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.5/PrismAI-0.3.5-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmhwZDFHbEQ5V2UvSy93Y3pHRjE2cnlSQjhoMEtaTDg2NFZWYmxGRFRSN2hiZnFZL3VVQ01hZWxKbm9IdWs3QXMwUTB5TXQxcnZuS2xwUGxQWUk1bVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjI4MDY4CWZpbGU6UHJpc21BSS0wLjMuNC1tYWNvcy1hcm02NC5hcHAudGFyLmd6Cmh0a09vM0IyRzRtOGNoMnRMOFB3dFU3ZlJXeVQrWTBZRUVueFZLNW52ako1Z3pKdEtIQmE0M1YzSWhIa0grbEVkTVcvTHZEaWdXZFk3eW80U3Y5TkNBPT0K",
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmlsNytpak8xYVZZcWx3NDRLb1BtWDlVeXFsV1ZkWW9ZSldJbWF1c3BRZjZyK1JIM05mK3MzOWdBb1luM0RJYUZDaWs4WXg0V2hzZzJzY1pkVWk4MFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Njg1OTYwCWZpbGU6UHJpc21BSS0wLjMuNC1pbnRlbC1tYWNvcy14ODZfNjQuYXBwLnRhci5negpnaVEyUjlvNHJacmp3SGlYcThEeHpaR2p3eHJEVDRaTzRNQUQ5QVROYjR4dFo0MitzcVVqOVgzRHNLTHRQbDdYempwdFk0QlR4YWRKNCtreVNYYm9EQT09Cg==",
