@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWnVIb0tpOXdIZG55dFZCQnFmWFhZeUc1Nkt2NWd4UnpabUtubjZUM2hDQnFSaTVSa0t0YWVWVGo5aWFmK0dDamxkRDBkWmpoOFJkZWpPWHl2SUdTeXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTY1MTMwCWZpbGU6UHJpc21BSS0wLjMuMTctbWFjb3MtYXJtNjQuYXBwLnRhci5nego2Uk5FYzdQa2JSV3BDcVZsY1k5dWNxeFQ4OEc0UWlDK2JVZUNTY2d1czBuV21EZGZPMTNMRDhaUStkRi8ydjlPNldYVC9VMXRmNDFRSGNKaW1iTjZDZz09Cg==",
-      "url": "https://github.com/Transformation-Agency/PrismAI/releases/download/v0.3.17/PrismAI-0.3.17-macos-arm64.app.tar.gz"
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.17/PrismAI-0.3.17-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWm5tSDVwSHlTNE94dHRqbDZmamNkcnZXTnhxb2V2WHNNVUlEYmFESHd1bWtHaHpXdC9USDhoOHJWVlBzVnNJZmhPenI1a28wMElLSXpvVXVwYXFQYWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTk4MzczCWZpbGU6UHJpc21BSS0wLjMuMTctbWFjb3MteDh2XzY0LmFwcC50YXIuZ3oKS2FkVjhrVzZ1RUVYRktaekFDRzdqaW9TdS9NKzBXUC9HNHZkdmxCS0RmQjhMalRuVkhuMTViZGhSWHp5NW96T05UTG04Ny9VUk1kdVJWekdWOE9vRFE9PQo=",
-      "url": "https://github.com/Transformation-Agency/PrismAI/releases/download/v0.3.17/PrismAI-0.3.17-macos-x86_64.app.tar.gz"
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.17/PrismAI-0.3.17-macos-x86_64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWm5yYUdPQS9SWk5WNWFoSEhUVXkzMSsvYWVjSUVhV0xaV3dUUWJxZEd2SzJ3Ky9sNE1VK1RqWWZxUHhIV1ZoMS9PbzZCa3RoL0FjZkNJdWVtbUxoMVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Nzg4NzYxCWZpbGU6UHJpc21BSV8wLjMuNF94NjQtc2V0dXAuZXhlCi9ITlpIQWU1Z1JDcVBWS2d5WVFteHl4S252RkRTRk9WZ2tVN25yNHRuMVpWL0d0aGhKT0x2RFZpd3ZDVEhEMVZyZnlWbHNKZy9MTGp2RlV0dUIraENRPT0K",
