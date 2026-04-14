@@ -1,18 +1,18 @@
 {
-  "version": "0.3.4",
-  "notes": "File save dialog, deliberation fixes, embed button for chat messages. First Windows build.",
-  "pub_date": "2026-04-09T00:00:00Z",
+  "version": "0.3.17",
+  "notes": "Working Apple Silicon desktop release with packaged guided setup fixes.",
+  "pub_date": "2026-04-14T20:00:35.914Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmhwZDFHbEQ5V2UvSy93Y3pHRjE2cnlSQjhoMEtaTDg2NFZWYmxGRFRSN2hiZnFZL3VVQ01hZWxKbm9IdWs3QXMwUTB5TXQxcnZuS2xwUGxQWUk1bVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjI4MDY4CWZpbGU6UHJpc21BSS0wLjMuNC1tYWNvcy1hcm02NC5hcHAudGFyLmd6Cmh0a09vM0IyRzRtOGNoMnRMOFB3dFU3ZlJXeVQrWTBZRUVueFZLNW52ako1Z3pKdEtIQmE0M1YzSWhIa0grbEVkTVcvTHZEaWdXZFk3eW80U3Y5TkNBPT0K",
-      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWnVIb0tpOXdIZG55dFZCQnFmWFhZeUc1Nkt2NWd4UnpabUtubjZUM2hDQnFSaTVSa0t0YWVWVGo5aWFmK0dDamxkRDBkWmpoOFJkZWpPWHl2SUdTeXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTY1MTMwCWZpbGU6UHJpc21BSS0wLjMuMTctbWFjb3MtYXJtNjQuYXBwLnRhci5nego2Uk5FYzdQa2JSV3BDcVZsY1k5dWNxeFQ4OEc0UWlDK2JVZUNTY2d1czBuV21EZGZPMTNMRDhaUStkRi8ydjlPNldYVC9VMXRmNDFRSGNKaW1iTjZDZz09Cg==",
+      "url": "https://github.com/Transformation-Agency/PrismAI/releases/download/v0.3.17/PrismAI-0.3.17-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmlsNytpak8xYVZZcWx3NDRLb1BtWDlVeXFsV1ZkWW9ZSldJbWF1c3BRZjZyK1JIM05mK3MzOWdBb1luM0RJYUZDaWs4WXg0V2hzZzJzY1pkVWk4MFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Njg1OTYwCWZpbGU6UHJpc21BSS0wLjMuNC1pbnRlbC1tYWNvcy14ODZfNjQuYXBwLnRhci5negpnaVEyUjlvNHJacmp3SGlYcThEeHpaR2p3eHJEVDRaTzRNQUQ5QVROYjR4dFo0MitzcVVqOVgzRHNLTHRQbDdYempwdFk0QlR4YWRKNCtreVNYYm9EQT09Cg==",
       "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-intel-macos-x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWm5yYUdPQS9SWk5WNWFoSEhUVXkzMSsvYWVjSUVhV0xaV3dUUWJxZEd2SzJ3Ky9sNE1VK1RqWWZxUHhIV1ZoMS9PbzZCa3RoL0FjZkNJdWVtbUxoMVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Nzg4NzYxCWZpbGU6UHJpc21BSV8wLjMuNF94NjQtc2V0dXAuZXhlCi9ITlpIQWU1Z1JDcVBWS2d5WVFteHl4S252RkRTRk9WZ2tVN25yNHRuMVpWL0d0aGhKT0x2RFZpd3ZDVEhEMVZyZnlWbHNKZy9MTGp2RlV0dUIrbENRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWm5yYUdPQS9SWk5WNWFoSEhUVXkzMSsvYWVjSUVhV0xaV3dUUWJxZEd2SzJ3Ky9sNE1VK1RqWWZxUHhIV1ZoMS9PbzZCa3RoL0FjZkNJdWVtbUxoMVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Nzg4NzYxCWZpbGU6UHJpc21BSV8wLjMuNF94NjQtc2V0dXAuZXhlCi9ITlpIQWU1Z1JDcVBWS2d5WVFteHl4S252RkRTRk9WZ2tVN25yNHRuMVpWL0d0aGhKT0x2RFZpd3ZDVEhEMVZyZnlWbHNKZy9MTGp2RlV0dUIraENRPT0K",
       "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI_0.3.4_x64-setup.exe"
     }
   }
