@@ -1,15 +1,15 @@
 {
-  "version": "0.3.18",
-  "notes": "Fix desktop Prisma bootstrap for translocated apps. Bug fixes and stability improvements.",
+  "version": "0.3.20",
+  "notes": "Hardened media editing bridge, enterprise battery fixes, stability improvements.",
   "pub_date": "2026-04-14T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWnJDMW1iRjMxT1RjTjcxcU81bmJkd0dDa2tYNEhjNm01RjUxREo3Q2dkdWJaQzhHT2tUNCs4OEFoZFVJb3ZEck1tYUlXOERYaDh3M0pJeWZXMmFTQkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjA0NjU0CWZpbGU6UHJpc21BSS0wLjMuMTgtbWFjb3MtYXJtNjQuYXBwLnRhci5negpoaFE1TVlvVkIzV0g0bnQ5Tm9GMlFDcXZEYkZNaEpGeVI3ZVJEYm1BSld1SmJud3ZaUnBhN2hUZEovQjhCc2FBZy9QSjRQdUUxQW9rTWUwOE4xVkdDUT09Cg==",
-      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.18/PrismAI-0.3.18-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWm16ZFh0Z25JUWFYa2VMQW5JZDNURHg3Q2g0dkNhZ0RjVkY3YVpmV1BtNk1vU1IyVjg2LzZ2NlROZXlTMmEvQXVocnlsQWxzbEluUDhFZUs3bVdQY1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjE3MTczCWZpbGU6UHJpc21BSS0wLjMuMjAtbWFjb3MtYXJtNjQuYXBwLnRhci5negptdHA4QmxVcWhGc2RPT1U1QzcxUStLNmdjbW9HeXBmV2VDTHRLU3lGNHJ4VmcwdWdhZDJzenFIaVFLc2Rvb3hrTHhiS1dETjNId2tIUzZ6ZXBWVXdDdz09Cg==",
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.20/PrismAI-0.3.20-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWnF4djc4aGNCeHZDNGFCQXJSbWRhRFBhMUpEZGVUcnZLQnBhbEtWaTZKRWw4SkRWV0JhYlVUTXg0b1lCQlJnQkpMYlRUbEZJbjQ5VkhOVWpJZ1JMTUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjA0OTc1CWZpbGU6UHJpc21BSS0wLjMuMTgtbWFjb3MteDg2XzY0LmFwcC50YXIuZ3oKNHIvdjZxYzBudXpUQ09aRnRlcFBtenpDamk2emNCQlJtY3hQV0tOVS9Yd3R3cUJDdko5YUlRQlFRVHRGWWxRNVRuK3RvS1JlOVI4TE13bTZVTEttQ2c9PQo=",
-      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.18/PrismAI-0.3.18-macos-x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWnZFVVVINUNkWkMwdTRsQU8rVlJzZjgwdEg4KzdqUDVaTjNmWVF2TSt5QUQrVUVNMUEvYkQ4MTBUd0pPSUM5NTVES3JVVDMvRGNWbTBqU3Y4em5SdndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjE2ODU1CWZpbGU6UHJpc21BSS0wLjMuMjAtbWFjb3MteDg2XzY0LmFwcC50YXIuZ3oKM3Zod25OWGN6Z0NtS2hKUC91QmxJQ0R4YVQrOVA5RlQ0U1NOTExYenZhYUtNRUhxWldLVnhRTENkZnd3cUdOK0wzb0M5TUg3M0ZSdzFmQUFKb0hQREE9PQo=",
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.20/PrismAI-0.3.20-macos-x86_64.app.tar.gz"
     }
   }
 }
