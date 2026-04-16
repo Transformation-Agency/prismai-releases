@@ -2,71 +2,65 @@
   <img src="prism-dodeca.png" alt="PrismAI" width="140" height="140">
 </p>
 
-<h1 align="center">PrismAI</h1>
+<h1 align="center">PrismAI Releases</h1>
 
 <p align="center">
-  Local-first AI workspace with constitutional governance, multi-lens council deliberation, and mixed-provider routing.<br />
-  Built on <a href="https://github.com/Mintplex-Labs/anything-llm">AnythingLLM</a>.
+  Public desktop downloads and updater assets for PrismAI.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.3.4-blue" alt="Version 0.3.4">
-  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey" alt="macOS | Windows">
+  <img src="https://img.shields.io/badge/version-0.3.26-blue" alt="Version 0.3.26">
+  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey" alt="macOS | Windows | Linux">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
 </p>
 
 ---
 
-## Download
+## Latest Release
+
+Current public release:
+
+- [v0.3.26](https://github.com/Transformation-Agency/prismai-releases/releases/tag/v0.3.26)
+
+## Downloads
 
 | Platform | Architecture | Download | Status |
 |---|---|---|---|
-| macOS | Apple Silicon (M1/M2/M3/M4) | [PrismAI-0.3.4-macos-arm64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-macos-arm64.dmg) | Signed + Notarized |
-| macOS | Intel | [PrismAI-0.3.4-intel-macos-x86_64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI-0.3.4-intel-macos-x86_64.dmg) | Signed + Notarized |
-| Windows | x64 | [PrismAI_0.3.4_x64-setup.exe](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.4/PrismAI_0.3.4_x64-setup.exe) | Unsigned |
+| macOS | Apple Silicon (M1/M2/M3/M4) | [PrismAI-0.3.26-macos-arm64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.26/PrismAI-0.3.26-macos-arm64.dmg) | Signed + Notarized |
+| macOS | Intel | [PrismAI-0.3.26-macos-x86_64.dmg](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.26/PrismAI-0.3.26-macos-x86_64.dmg) | Signed + Notarized |
+| Windows | x64 | [PrismAI_0.3.26_x64-setup.exe](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.26/PrismAI_0.3.26_x64-setup.exe) | Signed |
+| Linux | x64 (.deb) | [prism-ai_0.3.26_amd64.deb](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.26/prism-ai_0.3.26_amd64.deb) | Debian package |
 
-> **Windows users:** Windows may show a SmartScreen warning on first launch. Click "More info" → "Run anyway" to proceed.
+> Windows users may still see a SmartScreen warning on first launch. Click `More info` and then `Run anyway` to continue.
 
-## What is PrismAI?
+## Auto-Update Assets
 
-PrismAI is a desktop AI workspace that runs entirely on your machine. Chat with your documents, use AI agents, and deliberate across multiple AI perspectives — all governed by constitutional principles that keep outputs aligned with your values.
+PrismAI's macOS auto-updater uses these public assets:
 
-### Key Features
-
-- **Council Deliberation** — Query multiple AI lenses simultaneously and get synthesized, multi-perspective responses
-- **Constitutional Governance** — 9-stage action validator ensures AI outputs align with your governance rules
-- **200+ Built-in Lenses** — Specialized AI perspectives across 20+ constellations
-- **Mixed-Provider Routing** — Use OpenAI, Anthropic, Grok, Ollama, and others in the same council
-- **Custom Lens Creator** — Build your own lenses with LLM-assisted formatting
-- **RAG Pipeline** — Chat with PDFs, Word docs, code, web pages, and more
-- **Agent Framework** — Custom skills, tool calling, and MCP support
-- **25+ LLM Providers** — OpenAI, Anthropic, Google Gemini, Ollama, LM Studio, DeepSeek, Groq, and more
-- **Local-First** — Your data stays on your machine. No cloud dependency required.
-
-## Installation
-
-1. Download the DMG for your Mac from the table above
-2. Open the DMG and drag **PrismAI** to your Applications folder
-3. Launch PrismAI from Applications
-4. Follow the setup assistant to configure your AI providers
-
-## System Requirements
-
-- macOS 12 (Monterey) or later
-- 8 GB RAM minimum (16 GB recommended)
-- 2 GB disk space for the app + space for your documents
+- [PrismAI-0.3.26-macos-arm64.app.tar.gz](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.26/PrismAI-0.3.26-macos-arm64.app.tar.gz)
+- [PrismAI-0.3.26-macos-arm64.app.tar.gz.sig](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.26/PrismAI-0.3.26-macos-arm64.app.tar.gz.sig)
+- [PrismAI-0.3.26-macos-x86_64.app.tar.gz](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.26/PrismAI-0.3.26-macos-x86_64.app.tar.gz)
+- [PrismAI-0.3.26-macos-x86_64.app.tar.gz.sig](https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.3.26/PrismAI-0.3.26-macos-x86_64.app.tar.gz.sig)
 
 ## Verify Downloads
 
-Each release includes a `SHA256SUMS.txt` file. Verify your download:
+The public release includes per-platform checksum files:
+
+- `SHA256SUMS-arm64.txt`
+- `SHA256SUMS-intel.txt`
+- `SHA256SUMS-windows.txt`
+
+Example:
 
 ```bash
-shasum -a 256 -c SHA256SUMS.txt
+shasum -a 256 -c SHA256SUMS-arm64.txt
 ```
 
-## Feedback and Issues
+## Notes
 
-Found a bug or have a feature request? [Open an issue](https://github.com/Transformation-Agency/prismai-releases/issues).
+- macOS downloads are signed and notarized
+- Windows downloads are built from the same tagged release workflow
+- Linux downloads are published from the validated desktop matrix artifact
 
 ## License
 
