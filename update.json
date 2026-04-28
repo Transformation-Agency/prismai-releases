@@ -1,7 +1,7 @@
 {
   "version": "0.5.0",
-  "notes": "PrismAI v0.5.0 desktop release with CDISS integration, provider lane model detection, chat and Lens polish, and refreshed signed macOS updater assets.",
-  "pub_date": "2026-04-28T00:00:00Z",
+  "notes": "PrismAI v0.5.0 desktop release with CDISS integration, provider lane model detection, chat and Lens polish, and signed updater assets for macOS and Windows.",
+  "pub_date": "2026-04-28T18:33:00Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmlrVnp6Nk9vc3Y4N2VHdFJOVVI5cFgrQkZSRGhPeEEvUXcwRFUwVkZnWnlNV01WaTBpRWZsbVRXRER5NGRtYUhyQzBpeVY4bVVOZ3NjMlI1YkFXSndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzM0OTM5CWZpbGU6UHJpc21BSS0wLjUuMC1tYWNvcy1hcm02NC5hcHAudGFyLmd6CklZeFhGekE1TTlydmR6N0dBelE3ODc2bkt2VDBjbEhXd3BlY21Ud3BER2VQanJRTDhkTExCd0d6RmZkSG8rRnRPU2lLSEtQaEFuUnlyVm9mNEFyOUR3PT0K",
@@ -10,6 +10,10 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWnB0ZHlSTHVIOEF1RDhlNWxEM0JnRUNFSFlwKzN2YnNiMTMxTUYrR3llWHRuTVNGQng3dTEzVTkzNE1xdzZQY1Uzc0hxWXpiMVFxNUxZSTRKK2daSFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzM1MTc1CWZpbGU6UHJpc21BSS0wLjUuMC1tYWNvcy14ODZfNjQuYXBwLnRhci5negowWFJZM2tDSUFRUzBuMnYvazlQdHBKbzVLTU04MktaOHFaYzhLQTFwdjdrakhuV0hoeS9YRWx1YTNETDNkOHhZUENLMXEvU3JpUFU4dXR1Q0gxOGtEZz09Cg==",
       "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.5.0/PrismAI-0.5.0-macos-x86_64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWnR4alREUTZFZnRadnlLOXQrdnZKelF0ZUFWMWdjN0dHZnlnUUFXbnEvanJGckhwb2Y3ZTlkcnZRM2JBaXh6Yy9WcXJwN1ZCUytPTkFjVm12OWwwdmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzQ0ODAxCWZpbGU6UHJpc21BSV8wLjUuMF94NjQtc2V0dXAubnNpcy56aXAKMzFkNGozbXVuWFR2MEtSeS92UGhUaVRnWXR2Tm9NVXFhZ0VSQVpFM291QnR4alVMVjE2bnE2OUJZaTFOTEVGdm1aR0hoamNxV0NrUU5XVWlpc3RwQUE9PQo=",
+      "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.5.0/PrismAI_0.5.0_x64-setup.nsis.zip"
     }
   }
 }
