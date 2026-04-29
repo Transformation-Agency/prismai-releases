@@ -1,7 +1,7 @@
 {
   "version": "0.5.0",
   "notes": "PrismAI v0.5.0 desktop release with CDISS integration, provider lane model detection, chat and Lens polish, and signed updater assets for macOS and Windows.",
-  "pub_date": "2026-04-28T18:33:00Z",
+  "pub_date": "2026-04-29T23:25:12Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWmlrVnp6Nk9vc3Y4N2VHdFJOVVI5cFgrQkZSRGhPeEEvUXcwRFUwVkZnWnlNV01WaTBpRWZsbVRXRER5NGRtYUhyQzBpeVY4bVVOZ3NjMlI1YkFXSndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzM0OTM5CWZpbGU6UHJpc21BSS0wLjUuMC1tYWNvcy1hcm02NC5hcHAudGFyLmd6CklZeFhGekE1TTlydmR6N0dBelE3ODc2bkt2VDBjbEhXd3BlY21Ud3BER2VQanJRTDhkTExCd0d6RmZkSG8rRnRPU2lLSEtQaEFuUnlyVm9mNEFyOUR3PT0K",
@@ -12,7 +12,7 @@
       "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.5.0/PrismAI-0.5.0-macos-x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWnR4alREUTZFZnRadnlLOXQrdnZKelF0ZUFWMWdjN0dHZnlnUUFXbnEvanJGckhwb2Y3ZTlkcnZRM2JBaXh6Yy9WcXJwN1ZCUytPTkFjVm12OWwwdmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzQ0ODAxCWZpbGU6UHJpc21BSV8wLjUuMF94NjQtc2V0dXAubnNpcy56aXAKMzFkNGozbXVuWFR2MEtSeS92UGhUaVRnWXR2Tm9NVXFhZ0VSQVpFM291QnR4alVMVjE2bnE2OUJZaTFOTEVGdm1aR0hoamNxV0NrUU5XVWlpc3RwQUE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1N1NWVGNDlSWm02dDZhMXA4a1hqLzN4cVpvNzdkTWZGNk9uU1lFSzZYVmsveFFqcHl2ZXFMZjJaWVBtbGg2eXNiV3llT0k1NW5MWG9Gamw3U0pub2lxRXgwSThSY3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTA1MTEwCWZpbGU6UHJpc21BSV8wLjUuMF94NjQtc2V0dXAubnNpcy56aXAKa2ZKVk1mc295Z3k0c0JUMkhPQTVOdUcxTW4xbE13cGtsckpWeFVsMmw0ek5xM2tGSHBFSERrKzNQSHZSQm1TOXRGMHRZY3M0bGo1TEVDR0tEOW41Q1E9PQo=",
       "url": "https://github.com/Transformation-Agency/prismai-releases/releases/download/v0.5.0/PrismAI_0.5.0_x64-setup.nsis.zip"
     }
   }
